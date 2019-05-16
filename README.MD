@@ -1,6 +1,6 @@
 # Welcome to NodeSchool Casablanca !
 
-We are very proud to contribute to the open-source NodeSchool project and to rise the Moroccan flag on the Node.JS community. In this repository, you are going to find some resources, courses, and also we are willing to start doing some workshops when enough people is interested.
+We are very proud to contribute to the open-source NodeSchool project and to rise the Moroccan flag on the Node.JS community. In this repository, you are going to find some resources, courses, and also we are willing to start doing some workshops when enough people are interested.
 
 ## Rules and conditions:
 
